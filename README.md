@@ -1,2 +1,2 @@
-# learnings
+# Learnings
  My Learnings
